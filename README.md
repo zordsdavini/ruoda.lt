@@ -1,2 +1,2 @@
 # ruoda.lt
-django project for ruoda.lt
+django project for [[ruoda.lt]]
